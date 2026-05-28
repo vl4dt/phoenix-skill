@@ -1,0 +1,8 @@
+_build/
+deps/
+*.swp
+*.swo
+*~
+.exs.swo
+.exs.swp
+.ecto/
